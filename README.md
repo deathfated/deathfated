@@ -7,7 +7,7 @@
 - [BANDOENG](https://deathfated.itch.io/bandoeng) | 2D Action RPG set in post-colonial Indonesia. 2-person team, I'm responsible for Programming, Game Design and Environment Art.
 
 ### In Github
-- [TankU!]() | 3D Multiplayer Tank-shooting game, inspired by the Crash Bandicoot games and Bomberman games. 4-person team, I'm responsible for programming Sound FX, Overall Gameplay and Bomb Mechanics. Made during DikLat Game Programming Agate Academy 2022.
+- [TankU!](https://github.com/Leguna/Tugas-5-Kelompok-1) | 3D Multiplayer Tank-shooting game, inspired by the Crash Bandicoot games and Bomberman games. 4-person team, I'm responsible for programming Sound FX, Overall Gameplay and Bomb Mechanics. Made during DikLat Game Programming Agate Academy 2022.
 
 - [Trivia Game](https://github.com/deathfated/TriviaGame) | Simple Indonesian Multiple-choice Trivia game. 1-person team. Made during DikLat Game Programming Agate Academy 2022.
 
