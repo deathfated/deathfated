@@ -9,9 +9,9 @@
 ### In Github
 - [TankU!](https://github.com/Leguna/Tugas-5-Kelompok-1) | 3D Multiplayer Tank-shooting game, inspired by the Crash Bandicoot games and Bomberman games. 4-person team, I'm responsible for programming Sound FX, Overall Gameplay and Bomb Mechanics. Made during DikLat Game Programming Agate Academy 2022.
 
-- [Space Invaders](https://github.com/deathfated/12Aja-Tugas3) | Inspired by the classic Arcade game of the same name. 2-person team, I'm responsible for assets integration, UI, and gameflow mechanics. Made during DikLat Game Programming Agate Academy 2022.
-
 - [Pong 3D](https://github.com/deathfated/Mark-C-149251970101-198-3DPong) | 3D 4-player version of the classic game of the same name. 1-person team. Made during Game Programming Course in Agate Academy 2022.
+
+- [Space Invaders](https://github.com/deathfated/12Aja-Tugas3) | Inspired by the classic Arcade game of the same name. 2-person team, I'm responsible for assets integration, UI, and gameflow mechanics. Made during DikLat Game Programming Agate Academy 2022.
 
 - [Trivia Game](https://github.com/deathfated/TriviaGame) | Simple Indonesian Multiple-choice Trivia game. 1-person team. Made during DikLat Game Programming Agate Academy 2022.
 
